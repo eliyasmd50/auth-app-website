@@ -1,5 +1,5 @@
 <?php
-    include("./auth-app/header.html");
+    include("./header.html");
 ?>
 
 <!DOCTYPE html>
@@ -17,5 +17,5 @@
 </html>
 
 <?php
-    include("./auth-app/footer.html");
+    include("./footer.html");
 ?>

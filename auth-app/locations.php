@@ -1,5 +1,5 @@
 <?php
-    include("./auth-app/header.html");
+    include("./header.html");
 ?>
 
 <!DOCTYPE html>
@@ -10,12 +10,12 @@
     <title>Document</title>
 </head>
 <body>
-    This is a Home page <br>
+    This is a Locations page <br>
 
-    stuff on the home page goes here
+    stuff on the Locations page goes here
 </body>
 </html>
 
 <?php
-    include("./auth-app/footer.html");
+    include("./footer.html");
 ?>
